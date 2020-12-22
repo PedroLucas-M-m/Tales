@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://b6-wxn.k1r4pl.tales.exp.direct",
+  "packagerNgrokUrl": "https://packager.b6-wxn.k1r4pl.tales.exp.direct",
+  "ngrokPid": 5200,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
